@@ -3,10 +3,12 @@
   Regarding The State of This Repo And My Intents
   <br>
 </h1>
+<p align="center">
 I created this repo as a means of preserving Ryujinx source code and releases for future generations but do not have any intents of actually updating the code or functionality of Ryujinx myself. However if anyone would like to take up the responsibility of maintaining and updating Ryujinx then they can do so without any need for asking me and can do so simply by forking the repo further more I don't intend to accept or apply any patches, commits, or changes to this repo beyond basic technicalities (Removing the patreon due to it being inaccessible, disabling nonfunctional buildbots, etc). Also feel free to discuss things regarding Ryujinx here in the discussion tab but please be aware that subjects like piracy, distribution/acquisition of keys, firmware, roms, etc is still prohibited as are any and all other rules put forth by Githubs code of conduct. Now with that said I do hope Ryujinx continues on to have a bright future and sincerely wish the original devs the best in life going forward regardless of whether or not they remain in the emulation scene.
 <br>
 Regarding user support although I myself am no expert you are more than welcome to create a new discussion under the Discussion Q&A category and I'll do my best to help although anyone and everyone else is more than welcome to pitch in as I likely will not be able to resolve your issues due to my limited experience.
 <br>
+</p>
 <h1 align="center">
   <br>
   <a href="https://ryujinx.org/"><img src="https://raw.githubusercontent.com/Ryujinx/Ryujinx/master/distribution/misc/Logo.svg" alt="Ryujinx" width="150"></a>
