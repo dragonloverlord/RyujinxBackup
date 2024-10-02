@@ -142,19 +142,7 @@ You may also review our [FAQ](https://github.com/Ryujinx/Ryujinx/wiki/Frequently
 
 ## Donations
 
-If you'd like to support the project financially, Ryujinx has an active Patreon campaign.
-
-<a href="https://www.patreon.com/ryujinx">
-    <img src="https://images.squarespace-cdn.com/content/v1/560c1d39e4b0b4fae0c9cf2a/1567548955044-WVD994WZP76EWF15T0L3/Patreon+Button.png?format=500w" width="150">
-</a>
-
-All developers working on the project do so in their free time, but the project has several expenses:
-* Hackable Nintendo Switch consoles to reverse-engineer the hardware
-* Additional computer hardware for testing purposes (e.g. GPUs to diagnose graphical bugs, etc.)
-* Licenses for various software development tools (e.g. Jetbrains, IDA)
-* Web hosting and infrastructure maintenance (e.g. LDN servers)
-
-All funds received through Patreon are considered a donation to support the project. Patrons receive early access to progress reports and exclusive access to developer interviews.
+Patreon removed as original Ryujinx developers no longer have access to it and are not reciving any money from it.
 
 ## License
 
